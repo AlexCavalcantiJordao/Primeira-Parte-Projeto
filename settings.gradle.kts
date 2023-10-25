@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Projeto Firebase"
 include(":app")
- 
+include(":mylibrary")
